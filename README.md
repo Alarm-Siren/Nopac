@@ -18,6 +18,9 @@ This program is licensed under the GNU LGPL v2.1, which can be found in file LIC
 ## Building Nopac
 The Nopac source code is designed to compile with the [Free Pascal Compiler](https://www.freepascal.org/), version 2.6.0. There are no other dependencies. I have included an example make.bat file, but you'll need to edit it to match the specific directory structures you're using.
 
+## Can I play it without building it myself?
+Yes! I have uploaded a pre-built Win32 binary, Have a look in [Releases](https://github.com/Alarm-Siren/Nopac/releases).
+
 ## Game Instructions
 Move your character with w, a, s and d.  
 Press p at any time to quit the game.  
