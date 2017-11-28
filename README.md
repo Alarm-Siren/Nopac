@@ -27,7 +27,7 @@ Press k to save your progress, or l to load a previous save.
 % Block - nothing can move over this, including you.  
 o Orbs - You need to collect them all to win, and get 20 points per orb.  
 ! Baddie - if they eat you, you lose!  
-* Baddiesafe - These neutralise baddies for 40 turns and gain you 50 points.  
+&ast; Baddiesafe - These neutralise baddies for 40 turns and gain you 50 points.  
 , Safe Baddie - A neutralised Baddie. Eating one will net you 200 points.  
 . Eaten Baddie - You cannot eat them again unless you eat another Baddiesafe.  
 
