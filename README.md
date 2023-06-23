@@ -1,6 +1,8 @@
 # Nopac
 *Version 1.12.143*
 
+[![Project Status: Unsupported – The project has reached a stable, usable state but the author(s) have ceased all work on it. A new maintainer may be desired.](https://www.repostatus.org/badges/latest/unsupported.svg)](https://www.repostatus.org/#unsupported)
+
 A simple game of tasty asterisks and deadly exclamation marks.
 
 Nopac, which is definitely Not Pac-Man, is a simple game of moving your question mark avatar around a randomly generated serious of 15 progressively more difficult dungeons, trying to eat all the orbs whilst avoiding deadly exclamation marks. Occasionally you can get your own back on the pesky foes by eating asterisks, which temporarily turns them into edible commas.
